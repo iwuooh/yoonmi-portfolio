@@ -1,0 +1,23 @@
+a{
+  transition: .5s;
+  &:hover{
+    color: $fontColorHover;
+  }
+}
+
+.gbtn{
+  display: inline-block;
+  width: 200px;
+  height: 60px;
+  line-height: 60px;
+  background: $gbtnColor;
+  border: 1px solid $borderColor;
+  border-radius: 30px;
+  color: #fff;
+  box-sizing: border-box;
+  text-align: center;
+  &:hover{
+    background: #fff;
+    color: $gbtnColor;
+  }
+}
