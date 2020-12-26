@@ -183,7 +183,7 @@ body.sub{
             display: inline-block;
             width: 100%;
             font-size: 24px;
-            margin: 50px auto;
+            margin: 30px auto;
             padding-left: 70px;
           }
         }
@@ -252,7 +252,7 @@ body.sub{
           display: inline-block;
           width: 100%;
           font-size: $titleFontSizeNormal;
-          margin-bottom: 30px;
+          margin: 30px auto;
           padding-left: 70px;
         }
       }
@@ -322,8 +322,8 @@ body.sub{
                 width: 160px;
                 height: 160px;
                 border-radius: 100%;
-                background: url('../img/profile03.jpg') no-repeat;
-                background-position: top;
+                background: url('../img/profile02.jpg') no-repeat;
+                background-position: center;
                 background-size: cover;
               }
             }
